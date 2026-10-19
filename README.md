@@ -40,6 +40,8 @@ Create `~/.tmux.conf`:
 
 ```bash
 vim ~/.tmux.conf
+# then source it
+tmux source-file ~/.tmux.conf
 ```
 
 Paste contents from [here](.tmux.conf)
